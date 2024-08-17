@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "pattern": [
+    " I ",
+    "ISI",
+    " I "
+  ],
+  "result": {
+    "id": "minecraft:magma_cream"
+  },
+  "show_notification": true
+}
