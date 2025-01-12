@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "e2i",
+  "key": {
+    "E": {
+      "item": "mob_drops_recipes_nether:nether_essence_epic"
+    },
+    "R": {
+      "item": "mob_drops_recipes_nether:nether_essence_rare"
+    },
+    "U": {
+      "item": "mob_drops_recipes_nether:nether_essence_uncommon"
+    }
+  },
+  "pattern": [
+    "UEU",
+    "ERE",
+    "UEU"
+  ],
+  "result": {
+    "item": "minecraft:nether_star"
+  },
+  "show_notification": true
+}

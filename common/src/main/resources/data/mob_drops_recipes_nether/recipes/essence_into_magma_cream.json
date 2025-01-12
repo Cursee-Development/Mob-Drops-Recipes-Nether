@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "e2i",
+  "key": {
+    "E": {
+      "item": "mob_drops_recipes_nether:nether_essence_uncommon"
+    }
+  },
+  "pattern": [
+    "   ",
+    "EE ",
+    "   "
+  ],
+  "result": {
+    "item": "minecraft:magma_cream"
+  },
+  "show_notification": true
+}

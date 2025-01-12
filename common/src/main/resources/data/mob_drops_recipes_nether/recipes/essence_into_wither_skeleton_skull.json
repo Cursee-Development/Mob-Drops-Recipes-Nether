@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "e2i",
+  "key": {
+    "E": {
+      "item": "mob_drops_recipes_nether:nether_essence_epic"
+    },
+    "R": {
+      "item": "mob_drops_recipes_nether:nether_essence_rare"
+    }
+  },
+  "pattern": [
+    " E ",
+    "ERE",
+    " E "
+  ],
+  "result": {
+    "item": "minecraft:wither_skeleton_skull"
+  },
+  "show_notification": true
+}
