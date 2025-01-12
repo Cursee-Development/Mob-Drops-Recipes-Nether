@@ -1,4 +1,4 @@
-package com.cursee.examplemod.platform.services;
+package com.cursee.mob_drops_recipes_nether.platform.services;
 
 public interface IPlatformHelper {
 

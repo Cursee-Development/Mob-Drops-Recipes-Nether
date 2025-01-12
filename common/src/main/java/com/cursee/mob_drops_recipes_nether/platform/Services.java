@@ -1,7 +1,7 @@
-package com.cursee.examplemod.platform;
+package com.cursee.mob_drops_recipes_nether.platform;
 
-import com.cursee.examplemod.Constants;
-import com.cursee.examplemod.platform.services.IPlatformHelper;
+import com.cursee.mob_drops_recipes_nether.Constants;
+import com.cursee.mob_drops_recipes_nether.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

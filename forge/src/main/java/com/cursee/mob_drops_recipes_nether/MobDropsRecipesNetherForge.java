@@ -1,14 +1,14 @@
-package com.cursee.examplemod;
+package com.cursee.mob_drops_recipes_nether;
 
 import com.cursee.monolib.core.sailing.Sailing;
-import net.fabricmc.api.ModInitializer;
+import net.minecraftforge.fml.common.Mod;
 
-public class ExampleModFabric implements ModInitializer {
+@Mod(Constants.MOD_ID)
+public class MobDropsRecipesNetherForge {
     
-    @Override
-    public void onInitialize() {
-
-        ExampleMod.init();
+    public MobDropsRecipesNetherForge() {
+    
+        MobDropsRecipesNether.init();
         Sailing.register(Constants.MOD_NAME, Constants.MOD_ID, Constants.MOD_VERSION, Constants.MC_VERSION_RAW, Constants.PUBLISHER_AUTHOR, Constants.PRIMARY_CURSEFORGE_MODRINTH);
     }
 }
