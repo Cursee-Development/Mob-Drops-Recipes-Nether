@@ -4,9 +4,13 @@
   "ingredients": [
     {
       "item": "minecraft:blaze_rod"
+    },
+    {
+      "item": "minecraft:blaze_rod"
     }
   ],
   "result": {
-    "id": "mob_drops_recipes_nether:nether_essence_rare"
+    "id": "mob_drops_recipes_nether:nether_essence_rare",
+    "count": 2
   }
 }
